@@ -1,5 +1,5 @@
 #!/bin/bash
-# This is my modifications of original script, which was done by Anachron. All thanks goes to him.
+# This is my modifications of the original script, which was done by Anachron. All thanks goes to him.
 # Original can be found here: https://github.com/Anachron/i3blocks/tree/master/blocks
 # Script is based on API: http://openweathermap.org/current
 # to find your city id see 'city.list.json.gz',

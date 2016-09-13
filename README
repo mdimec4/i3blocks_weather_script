@@ -3,7 +3,7 @@ This script will add weather info to your i3bar, of
 your i3 Windows manager.
 
 
-This is my modifications of original script, which was done by Anachron. All thanks goes to him.
+This is my modifications of the original script, which was done by Anachron. All thanks goes to him.
 Original can be found here: https://github.com/Anachron/i3blocks/tree/master/blocks
 Script is based on API: http://openweathermap.org/current
 
