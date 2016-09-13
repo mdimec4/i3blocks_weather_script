@@ -1,7 +1,7 @@
 #!/bin/bash
-# This are my modifications of original which was done by Anachron. All thanks go to him.
+# This is my modifications of original script, which was done by Anachron. All thanks goes to him.
 # Original can be found here: https://github.com/Anachron/i3blocks/tree/master/blocks
-# Based on http://openweathermap.org/current
+# Script is based on API: http://openweathermap.org/current
 # to find your city id see 'city.list.json.gz',
 # which can be downloaded here: http://bulk.openweathermap.org/sample/
 

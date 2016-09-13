@@ -1,0 +1,36 @@
+
+This script will add weather info to your i3bar, of
+your i3 Windows manager.
+
+
+This is my modifications of original script, which was done by Anachron. All thanks goes to him.
+Original can be found here: https://github.com/Anachron/i3blocks/tree/master/blocks
+Script is based on API: http://openweathermap.org/current
+
+
+
+## configure
+
+Script relies on custom i3 status line called i3blocks.
+For more info and how to install it see: https://github.com/vivien/i3blocks
+
+Add to your ~/.i3blocks.conf
+#weather
+[weather]
+instance=3196359
+interval=60
+
+Instance number is City id for which you want to show weather.
+
+To find your city id see 'city.list.json.gz',
+which can be downloaded here: http://bulk.openweathermap.org/sample/
+
+
+You will allso need to register with "http://openweathermap.org",
+to get a free private API key. Without it, script wont work.
+Edit yur `weather` script file and insert your key.
+API_KEY="xxxxxxxxxxxx" # your openweathermap private key goes here
+
+
+
+
