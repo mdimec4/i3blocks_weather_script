@@ -5,7 +5,7 @@
 # to find your city id see 'city.list.json.gz',
 # which can be downloaded here: http://bulk.openweathermap.org/sample/
 
-API_KEY="xxxxxxxxxxxx"
+API_KEY="xxxxxxxxxxxx" # your openweathermap private key goes here
 
 # Check on http://openweathermap.org/find
 CITY_ID="${BLOCK_INSTANCE}"
